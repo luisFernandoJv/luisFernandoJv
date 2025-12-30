@@ -41,7 +41,7 @@ Tenho paixão por **Código Limpo**, **Algoritmos Complexos** e **Tecnologia Edu
   
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisFernandoJv&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisFernandoJv&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="160" alt="languages graph" /> -->
 </div>
 
 <div align="center">
