@@ -38,7 +38,7 @@ Minha paixão é unir a **precisão matemática** com a **criatividade da engenh
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisFernandoJv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luisFernandoJv&show_icons=true&theme=dracula&hide_border=true" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisFernandoJv&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="160" alt="languages graph" />
 </div>
 
