@@ -1,9 +1,8 @@
 <div align="center">
-  <h1>Olá! Eu sou o Luís Fernando 👋</h1>
-  <h3>Engenheiro de Computação | Matemático | Mestrando em Eng. Elétrica</h3>
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+Lu%C3%ADs+Fernando;Engenheiro+de+Computa%C3%A7%C3%A3o;Mestrando+em+Eng.+El%C3%A9trica;Dev+Fullstack+%26+Matem%C3%A1tico" alt="Typing SVG" />
+
   <p>
-    <em>"Transformando lógica complexa em soluções de engenharia eficientes."</em>
+    <em>"Transformando lógica matemática em soluções de engenharia eficientes."</em>
   </p>
 
   <a href="https://www.linkedin.com/in/lu%C3%ADs-fernando-alexandre-dos-santos-7ab69124a/">
@@ -21,25 +20,28 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou **Engenheiro de Computação** graduado pela UFERSA e **Matemático** pela FAVENI. Atualmente, estou aprofundando meus conhecimentos técnicos no **Mestrado em Engenharia Elétrica** (UFERSA), com foco em Sistemas de Controle.
+Sou **Engenheiro de Computação** (UFERSA) e **Matemático** (FAVENI). Atualmente, estou unindo esses dois mundos no meu **Mestrado em Engenharia Elétrica**, com foco em Sistemas de Controle e Automação.
 
-Minha paixão é unir a **precisão matemática** com a **criatividade da engenharia de software** para desenvolver tecnologias educacionais e sistemas complexos.
+Tenho paixão por **Código Limpo**, **Algoritmos Complexos** e **Tecnologia Educacional**. Busco oportunidades onde eu possa aplicar minha base teórica sólida para resolver problemas reais de software.
 
 ---
 
-### 🚀 Tech Stack & Ferramentas
+### 🚀 Arsenal Tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cs,react,html,css,latex,git,github,vscode,postgres&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,cs,html,css,postgres,git,github,vscode,latex&perline=6" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Performance no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisFernandoJv&show_icons=true&theme=dracula&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisFernandoJv&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="160" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisFernandoJv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisFernandoJv&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
