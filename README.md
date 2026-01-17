@@ -90,62 +90,19 @@ const luisFernando = {
 <!-- DIVISOR -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+
+
+## 📈 Atividade & Produtividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisFernandoJv&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisFernandoJv&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisFernandoJv&theme=react&hide_border=true&background=0D1117&stroke=2196F3&ring=2196F3&fire=FF6B35&currStreakLabel=2196F3" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisFernandoJv&custom_title=Histórico%20de%20Contribuições&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisFernandoJv&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph"/>
-</div>
-
-<br>
-
-<!-- DIVISOR -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 Conquistas GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luisFernandoJv&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" width="100%" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-<!-- DIVISOR -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 Projetos em Destaque
-
-<div align="center">
-
-<!-- SUBSTITUA 'luisFernandoJv' E OS NOMES DOS REPOS PELOS SEUS PROJETOS REAIS -->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luisFernandoJv&repo=luisFernandoJv&theme=react&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=c9d1d9)](https://github.com/luisFernandoJv/luisFernandoJv)
-
-</div>
-
-> 📌 **Ação necessária:** Vá até seu perfil GitHub > "Customize your pins" e fixe seus 4-6 melhores projetos!
-
-<br>
-
-<!-- DIVISOR -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Contribuições
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/luisFernandoJv/luisFernandoJv/output/github-contribution-grid-snake.svg)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luisFernandoJv&theme=react&utcOffset=-3" alt="Productive Time" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luisFernandoJv&theme=react" alt="Repos per Language" width="48%" />
 </div>
 
 <br>
@@ -168,25 +125,9 @@ const luisFernando = {
 
 ### 📬 Entre em Contato
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="50px"/><br/>
-      <b>Email</b><br/>
-      <a href="mailto:luizfer.12321@gmail.com">luizfer.12321@gmail.com</a>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="50px"/><br/>
-      <b>LinkedIn</b><br/>
-      <a href="https://www.linkedin.com/in/luís-fernando-alexandre-dos-santos-7ab69124a/">Conecte-se comigo</a>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/instagram-new.png" width="50px"/><br/>
-      <b>Instagram</b><br/>
-      <a href="https://www.instagram.com/luis_fernando_jv__">@luis_fernando_jv__</a>
-    </td>
-  </tr>
-</table>
+| 📧 Email | 💼 LinkedIn | 📸 Instagram |
+|:---:|:---:|:---:|
+| [luizfer.12321@gmail.com](mailto:luizfer.12321@gmail.com) | [Conecte-se](https://www.linkedin.com/in/luís-fernando-alexandre-dos-santos-7ab69124a/) | [@luis_fernando_jv__](https://www.instagram.com/luis_fernando_jv__) |
 
 <br>
 
@@ -206,19 +147,24 @@ def sobre_mim():
 
 <br>
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<!-- DIVISOR -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
+
+### 💭 Pensamento do Dia
   
-  ### 💭 Pensamento do Dia
-  
-[![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=default)](https://github.com/piyushsuthar/github-readme-quotes)
-  
-  <br><br>
-  
-  **⭐ Se você gostou do meu perfil, deixe uma estrela nos meus repositórios!**
-  
-  <img src="https://img.shields.io/github/stars/luisFernandoJv?style=social" alt="GitHub stars"/>
-  
+> *"The best way to predict the future is to invent it."* — Alan Kay
+
+<br>
+
+**⭐ Se você gostou do meu perfil, deixe uma estrela nos meus repositórios!**
+
+<img src="https://img.shields.io/github/stars/luisFernandoJv?style=social" alt="GitHub stars"/>
+
 </div>
+
+<br>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
