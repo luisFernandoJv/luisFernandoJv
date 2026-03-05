@@ -3,7 +3,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║     LUIS FERNANDO ALEXANDRE DOS SANTOS                       ║
-║     Backend Engineer · Java & Spring Boot · Cloud AWS        ║
+║     Desenvolvedor backend · Java & Spring Boot · Cloud AWS   ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
