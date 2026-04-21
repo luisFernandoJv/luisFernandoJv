@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:22c55e,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3776AB,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
 # Luis Fernando Alexandre dos Santos
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;APIs+REST+%7C+Microsservi%C3%A7os+%7C+AWS+Cloud;Clean+Architecture+%7C+Sistemas+em+Produ%C3%A7%C3%A3o;Mestrando+em+Engenharia+El%C3%A9trica+%7C+UFERSA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+ML+Engineer;Python+%7C+Scikit-learn+%7C+SQL+%7C+AWS;Otimiza%C3%A7%C3%A3o+%7C+L%C3%B3gica+Fuzzy+%7C+Vis%C3%A3o+Computacional;Mestrando+em+Engenharia+El%C3%A9trica+%7C+UFERSA" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luisfernando--eng-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisfernando-eng)
 [![Gmail](https://img.shields.io/badge/Gmail-luizfer.12321%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luizfer.12321@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/luisFernandoJv)
-[![Status](https://img.shields.io/badge/Disponível_para_Oportunidades-22c55e?style=flat-square&logoColor=white)](https://www.linkedin.com/in/luisfernando-eng)
+[![Portfólio DS/ML](https://img.shields.io/badge/Portfólio_DS%2FML-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/luisFernandoJv)
+[![Status](https://img.shields.io/badge/Disponível_para_Oportunidades-3776AB?style=flat-square&logoColor=white)](https://www.linkedin.com/in/luisfernando-eng)
 
 </div>
 
@@ -19,21 +19,20 @@
 
 ## Sobre mim
 
-Sou **Engenheiro de Computação** pela UFERSA, com foco em **desenvolvimento Backend Java e Cloud AWS**, atuando na construção de APIs REST, microsserviços e arquiteturas serverless voltadas para escala e ambientes reais de produção.
+Sou **Engenheiro de Computação** (Ufersa) e **mestrando em Engenharia Elétrica** com foco em **Sistemas de Controle e Inteligência Artificial**, onde aplico Lógica Fuzzy, Visão Computacional e algoritmos de otimização a problemas reais.
 
-Tenho experiência prática no desenvolvimento de sistemas utilizados por empresas, incluindo ERPs, APIs com autenticação **JWT** e arquiteturas orientadas a eventos com **RabbitMQ**. Atuo também na construção e operação de infraestrutura em cloud (AWS), utilizando serviços como **Lambda, EC2, RDS e SSM**.
+Antes da tecnologia, atuei por **7 anos como professor de matemática**. Essa trajetória me deu algo que a maioria dos profissionais de dados não tem: a capacidade de entender o que acontece *dentro* dos modelos, não apenas aplicar bibliotecas. Estruturo problemas matematicamente antes de escrever qualquer linha de código.
 
-Meu foco vai além de "fazer funcionar": projeto soluções pensando em **manutenibilidade, segurança e escalabilidade de longo prazo**, aplicando boas práticas de engenharia de software e arquitetura.
+Com Python, Scikit-learn, NumPy, SciPy e SQL, desenvolvo pipelines de dados e modelos de ML desde a análise exploratória até o deploy em AWS. Publiquei pesquisa aplicada no **SBPO 2024** (metaheurística GRASP para otimização de rotas logísticas) e construí ferramentas científicas open source com impacto real em ambiente acadêmico.
 
-Antes da tecnologia, atuei por **7 anos como professor de matemática**, experiência que fortaleceu meu raciocínio lógico, pensamento analítico e comunicação técnica, hoje aplicados diretamente na modelagem de sistemas e resolução de problemas complexos.
-
-Atualmente, aprofundo meus conhecimentos em **Inteligência Artificial** no Mestrado em Engenharia Elétrica (UFERSA), integrando fundamentos matemáticos com desenvolvimento de software.
+Busco oportunidades como **Data Engineer** ou **ML Engineer**, onde possa unir rigor matemático, modelagem preditiva e engenharia de software para transformar dados em decisões de negócio.
 
 ```
 📍 Paraíba, Brasil  ·  Disponível para trabalho remoto, híbrido ou presencial
 🎓 Bacharelado em Engenharia de Computação — UFERSA (2022–2026)
-🎓 Mestrado em Engenharia Elétrica — UFERSA (2025–2027) · IA & Visão Computacional
-💼 Desenvolvedor Backend Freelance · set/2025–presente
+🎓 Mestrado em Engenharia Elétrica — UFERSA (2025–2027) · IA, Fuzzy & Visão Computacional
+📄 Publicação: SBPO 2024 — Otimização Logística com Metaheurística GRASP
+💼 Engenheiro de Computação & Dados — AutomateLL · set/2025–presente
 🏫 Professor de Matemática · Prefeitura de Uiraúna · 2021–presente
 ```
 
@@ -43,48 +42,44 @@ Atualmente, aprofundo meus conhecimentos em **Inteligência Artificial** no Mest
 
 <div align="center">
 
-**Backend**
+**Data Science & Machine Learning**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logo=python&logoColor=white)
 
-**Cloud & DevOps**
+**Dados & Bancos**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
-![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![SSM](https://img.shields.io/badge/SSM-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Banco de Dados**
-
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
-**Mensageria**
+**Cloud & Infraestrutura**
 
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-
-**Frontend (suporte)**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Pesquisa & IA**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Fuzzy Logic](https://img.shields.io/badge/Lógica_Fuzzy-8CAAE6?style=flat-square&logo=python&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Visão_Computacional-F7931E?style=flat-square&logo=opencv&logoColor=white)
+![Optimization](https://img.shields.io/badge/Otimização_%26_Metaheurísticas-3B5526?style=flat-square&logo=python&logoColor=white)
+
+**Engenharia de Software (suporte)**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 </div>
 
@@ -92,105 +87,96 @@ Atualmente, aprofundo meus conhecimentos em **Inteligência Artificial** no Mest
 
 ## Projetos em Destaque
 
-> Sistemas reais entregues — não apenas exercícios acadêmicos.
+> Pesquisa aplicada, ferramentas científicas e sistemas orientados a dados — com impacto real.
 
 ---
 
-### 🏭 [Império Sucata — ERP em Produção](https://github.com/luisFernandoJv/Imperio-Sucata-ERP)
-**Sistema de gestão para empresa de reciclagem · em uso contínuo**
+### 📊 [Pipeline de Análise de Dados Operacionais — AutomateLL](https://github.com/luisFernandoJv/Imperio-Sucata-ERP)
+**Sistema de inteligência operacional em produção contínua**
 
-ERP desenvolvido e mantido para uma empresa real, com alto volume de movimentações diárias. Inclui controle de estoque, fluxo de caixa e relatórios financeiros em tempo real. Em evolução com integração **ESP32** para leitura de balança via Wi-Fi — eliminando entrada manual de dados.
+Desenvolvimento de pipeline em Python para processamento e análise de dados operacionais de alto volume (estoque e financeiro). Automação de relatórios de margem de lucro, fluxo de caixa e rastreabilidade de estoque em tempo real. Em evolução com integração **ESP32** para captura automática de dados via Wi-Fi, eliminando entrada manual.
 
-`JavaScript` · `ERP` · `IoT` · `Produção`
-
----
-
-### 🏪 [AdegaFlow](https://github.com/luisFernandoJv/AdegaFlow) + [Adegaflow API](https://github.com/luisFernandoJv/Adegaflow-api)
-**Sistema full stack de gestão para adegas e pequenos comércios**
-
-Frontend em React/TypeScript e backend em Java/Spring Boot com autenticação JWT, persistência MySQL e arquitetura em camadas bem definida.
-
-`Java` · `Spring Boot` · `JWT` · `MySQL` · `React` · `TypeScript` · `REST API`
+`Python` · `SQL` · `Análise de Dados` · `Automação` · `IoT` · `Produção`
 
 ---
 
-### ☁️ [Matemática+](https://github.com/luisFernandoJv/matematica-mais)
-**App mobile educacional 100% serverless na AWS**
+### 🔬 [Otimização Logística com GRASP — Publicação SBPO 2024](https://lnkd.in/eahtJwwU)
+**Metaheurística aplicada ao Problema do Caixeiro Viajante em empresa de laticínios**
 
-Plataforma Android para quizzes de matemática com gamificação. Autenticação via **AWS Cognito**, persistência no **DynamoDB**, lógica em **Lambda**, entrega via **API Gateway** e CI/CD automatizado.
+Pesquisa publicada no **57° Simpósio Brasileiro de Pesquisa Operacional (Gramado/RS)** em parceria com UFERSA e UFRN. Implementação do algoritmo GRASP em Python para otimização de rotas de distribuição, reduzindo custos logísticos com soluções de alta qualidade geradas em segundos para um problema NP-difícil.
 
-`AWS Lambda` · `API Gateway` · `DynamoDB` · `Cognito` · `React Native` · `S3` · `CI/CD`
+`Python` · `Otimização` · `Metaheurística` · `GRASP` · `Pesquisa Operacional` · `Publicação Acadêmica`
+
+---
+
+### 🖥️ [Sistemas de Controle — Python (TCC)](https://github.com/luisFernandoJv/Sistemas-Controle-Python-)
+**Ferramenta científica open source · alternativa ao MATLAB**
+
+Ferramenta computacional desenvolvida do zero para análise de sistemas dinâmicos, com implementação manual (sem abstrações de alto nível) de quatro módulos: estabilidade via Routh-Hurwitz, extração automática de parâmetros de sistemas de 2ª ordem, LGR interativo com cálculo simbólico via SymPy, e projeto/simulação de controladores PID. Testada em ambiente acadêmico com resultados 100% consistentes com a teoria clássica.
+
+`Python` · `NumPy` · `SciPy` · `SymPy` · `Matplotlib` · `Computação Científica` · `Open Source`
+
+---
+
+### ☁️ [Matemática+ — App Educacional Serverless](https://github.com/luisFernandoJv/matematica-mais)
+**Pipeline serverless com DynamoDB + Lambda + API Gateway**
+
+Plataforma educacional Android com arquitetura 100% serverless na AWS. Dados de quizzes e gamificação persistidos no **DynamoDB**, lógica de negócio em **Lambda**, entrega via **API Gateway**, autenticação com **Cognito** e CI/CD automatizado. Foco em escalabilidade e custo zero em idle.
+
+`AWS Lambda` · `DynamoDB` · `API Gateway` · `Cognito` · `S3` · `Arquitetura Serverless`
+
+---
+
+### 🏪 [AdegaFlow — Sistema de Gestão Full Stack](https://github.com/luisFernandoJv/AdegaFlow)
+**Backend orientado a dados com camada de persistência robusta**
+
+Sistema completo com frontend React/TypeScript e backend Java/Spring Boot. Modelagem de entidades com JPA, persistência MySQL, autenticação JWT e arquitetura em camadas. Desenvolvido para operação real em pequenos comércios.
+
+`Java` · `Spring Boot` · `MySQL` · `SQL` · `JPA` · `REST API` · `React` · `TypeScript`
 
 ---
 
 ### 🔧 [Spring Microservices Event-Driven](https://github.com/luisFernandoJv/spring-microservices-event-driven)
-**Ecossistema de microsserviços com mensageria assíncrona**
+**Arquitetura orientada a eventos com mensageria assíncrona**
 
-Serviços de User e Email com **Spring Boot 3**, comunicação via **RabbitMQ (CloudAMQP)** e persistência isolada em containers **Docker + PostgreSQL**.
+Ecossistema de microsserviços com comunicação via **RabbitMQ (CloudAMQP)**, persistência isolada por serviço em **PostgreSQL** e orquestração com **Docker**. Demonstra domínio de arquitetura distribuída e fluxo de dados entre sistemas.
 
 `Java` · `Spring Boot 3` · `RabbitMQ` · `Docker` · `PostgreSQL` · `Event-Driven`
 
 ---
 
-### 🖥️ [AWS Systems Manager Fleet Automation](https://github.com/luisFernandoJv/aws-systems-manager-fleet-automation)
-**Gestão de frota de servidores sem abrir porta SSH**
+### 🐧 [AWS Infrastructure Labs](https://github.com/luisFernandoJv/aws-ec2-web-infrastructure)
+**Alta disponibilidade, Auto Scaling e Disaster Recovery na AWS**
 
-Automação com **Fleet Manager**, **Run Command**, **Parameter Store** e **Session Manager**. Porta 22 completamente fechada — acesso controlado por IAM, auditado via CloudTrail.
+Série de laboratórios documentados: provisionamento de VPC + EC2, configuração de Auto Scaling com CloudWatch, failover automático via Route 53 com SNS, e gestão de frota sem SSH via SSM Fleet Manager. Infraestrutura como código com Shell Script.
 
-`Shell` · `AWS SSM` · `IAM` · `CloudTrail` · `Zero Trust`
-
----
-
-### 📐 [Node.js MVC + Repository Pattern](https://github.com/luisFernandoJv/nodejs-mvc-repository-pattern)
-**API desacoplada com padrões de projeto aplicados**
-
-API REST em Node.js e MySQL com **MVC** e **Repository Pattern**. Foco em desacoplamento de camadas e manutenibilidade.
-
-`Node.js` · `MySQL` · `MVC` · `Design Patterns` · `REST`
+`AWS` · `EC2` · `Route 53` · `Auto Scaling` · `SSM` · `CloudTrail` · `Shell` · `IaC`
 
 ---
 
-### 🐧 [AWS EC2 Web Infrastructure](https://github.com/luisFernandoJv/aws-ec2-web-infrastructure)
-**Infraestrutura AWS com VPC, EC2 e automação via Shell Script**
+### 🍕 [Pizza SOS — Tecnologia com Propósito Social](https://github.com/luisFernandoJv/pizza-sos)
+**Canal seguro de pedido de ajuda para vítimas de violência doméstica**
 
-Provisionamento de infraestrutura escalável com VPC customizada, instâncias EC2 com Apache e automação completa via scripts. Sem dependência de console gráfico.
-
-`Shell` · `AWS EC2` · `VPC` · `Apache` · `IaC`
-
----
-
-### 🍕 [Pizza SOS](https://github.com/luisFernandoJv/pizza-sos)
-**Canal discreto de emergência para vítimas de violência doméstica**
-
-Web app que simula um delivery de pizza, mas funciona como canal seguro de pedido de ajuda. Projeto com propósito social e atenção à experiência do usuário em situação de risco.
+Web app que simula um delivery de pizza mas funciona como canal discreto de emergência. Projeto com foco em UX para situações de risco e responsabilidade social da tecnologia.
 
 `TypeScript` · `Next.js` · `UX` · `Segurança`
 
 ---
 
-### 🐍 [Sistemas de Controle — Python](https://github.com/luisFernandoJv/Sistemas-Controle-Python-)
-**Ferramenta de pesquisa acadêmica (UFERSA)**
-
-Análise de sistemas dinâmicos com critérios de estabilidade (Routh-Hurwitz, Nyquist, LGR) e projeto de controladores PI, PD e PID com visualização gráfica interativa.
-
-`Python` · `Engenharia de Controle` · `Algoritmos` · `Pesquisa`
-
----
-
-## O que eu trago para um time
+## O que eu trago para um time de dados
 
 | | Competência | Detalhe |
 |:---:|:---|:---|
-| ✅ | **APIs REST** | Spring Boot com RESTful, versionamento e documentação clara |
-| ✅ | **Segurança** | Spring Security, JWT, AWS Cognito, IAM, princípio do menor privilégio |
-| ✅ | **Cloud AWS** | Lambda, EC2, S3, RDS, API Gateway, Cognito, SSM, CloudTrail |
-| ✅ | **Arquitetura** | Clean Architecture, microsserviços, event-driven, monolito estruturado |
-| ✅ | **Mensageria** | RabbitMQ (CloudAMQP), comunicação assíncrona entre serviços |
-| ✅ | **DevOps** | Docker, GitHub Actions, CI/CD, Linux, Shell Script, IaC |
-| ✅ | **Produção real** | ERPs e APIs entregues para empresas reais em uso contínuo |
-| ✅ | **Full-stack** | React, TypeScript, Next.js quando o projeto exige |
-| ✅ | **Base acadêmica** | Engenharia de Computação + Mestrado em Eng. Elétrica (IA) |
-| ✅ | **Qualidade** | Código limpo, testável, manutenível e bem documentado |
+| ✅ | **Base matemática sólida** | 7 anos ensinando + Eng. Computação + Mestrado em Eng. Elétrica |
+| ✅ | **ML & modelagem** | Scikit-learn, algoritmos de otimização, metaheurísticas, Fuzzy Logic |
+| ✅ | **Python científico** | NumPy, SciPy, SymPy, Matplotlib — uso real em pesquisa |
+| ✅ | **SQL & dados** | Modelagem relacional, PostgreSQL, MySQL, DynamoDB |
+| ✅ | **Cloud AWS** | Lambda, EC2, S3, RDS, API Gateway, Auto Scaling, SSM |
+| ✅ | **Pipelines de dados** | Coleta, tratamento, agregação e geração de relatórios em produção |
+| ✅ | **Pesquisa aplicada** | Publicação no SBPO 2024, ferramenta open source acadêmica |
+| ✅ | **Engenharia de software** | Java/Spring Boot, APIs REST, microsserviços, Docker, CI/CD |
+| ✅ | **Visão de negócio** | Experiência em sistemas reais com impacto operacional mensurável |
+| ✅ | **Comunicação técnica** | Ex-professor: transforma conceitos complexos em linguagem clara |
 
 ---
 
@@ -198,9 +184,9 @@ Análise de sistemas dinâmicos com critérios de estabilidade (Routh-Hurwitz, N
 
 <div align="center">
 
-[![Repositórios](https://img.shields.io/badge/Repositórios_Públicos-47+-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisFernandoJv?tab=repositories)
-[![Contribuições](https://img.shields.io/badge/Contribuições_desde_2023-271+-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisFernandoJv)
-[![Linguagem Principal](https://img.shields.io/badge/Linguagem_Principal-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/luisFernandoJv?tab=repositories&language=java)
+[![Repositórios](https://img.shields.io/badge/Repositórios_Públicos-47+-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisFernandoJv?tab=repositories)
+[![Contribuições](https://img.shields.io/badge/Contribuições_desde_2023-271+-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisFernandoJv)
+[![Linguagem Principal](https://img.shields.io/badge/Linguagem_Principal-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/luisFernandoJv?tab=repositories&language=python)
 
 </div>
 
@@ -215,6 +201,6 @@ Análise de sistemas dinâmicos com critérios de estabilidade (Routh-Hurwitz, N
 
 *Paraíba, Brasil · Disponível para remoto, híbrido e presencial*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:22c55e,100:0d1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3776AB,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
