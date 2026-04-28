@@ -23,7 +23,7 @@ Sou **Engenheiro de Computação** (UFERSA) e **mestrando em Engenharia Elétric
 
 Antes da tecnologia, atuei por **mais de 5 anos como professor de matemática**. Essa trajetória me deu algo que a maioria dos profissionais de dados não tem: a capacidade de estruturar problemas matematicamente antes de escrever qualquer linha de código, e de comunicar soluções complexas com clareza.
 
-Atuo na interseção entre **Engenharia de Dados e Machine Learning**: construo pipelines de dados, integro sistemas e aplico técnicas de otimização e ML a problemas reais. Tenho publicação acadêmica no **SBPO 2024** (metaheurística GRASP para logística) e desenvolvo ferramentas científicas open source com impacto direto em ambiente acadêmico.
+Atuo na interseção entre **Engenharia de Dados e Machine Learning**: construo pipelines de dados, integro sistemas e aplico técnicas de otimização e ML a problemas reais. Tenho publicação acadêmica no **SBPO 2025** (metaheurística GRASP para logística) e desenvolvo ferramentas científicas open source com impacto direto em ambiente acadêmico.
 
 Busco oportunidades como **Data Engineer** ou **ML Engineer**, onde possa unir rigor matemático, modelagem preditiva e engenharia de software para transformar dados em decisões de negócio.
 
