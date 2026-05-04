@@ -162,12 +162,9 @@ Busco oportunidades como Data Engineer ou Machine Learning Engineer, onde eu pos
 
 ---
 
-## GitHub Stats
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=luisFernandoJv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3776AB&icon_color=3776AB&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisFernandoJv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3776AB&text_color=c9d1d9&langs_count=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luisFernandoJv&bg_color=0d1117&color=3776AB&line=3776AB&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
